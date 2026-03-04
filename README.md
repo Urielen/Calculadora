@@ -1,5 +1,4 @@
-# Calculadora
-Para probar :U
+# Calculadora 
 def calculadora():
     historial = []  # Lista para guardar operaciones
 
